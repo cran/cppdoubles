@@ -1,0 +1,16 @@
+b7686102ea25d0e3097721bc88ff31da *DESCRIPTION
+8e42d5a592703338b7146c32bb9deffe *LICENSE
+fd278dd24c8b53400fc71c1e5b97b1ab *NAMESPACE
+00c14f7531d9faa4a554b59333985509 *NEWS.md
+11a2520da0c5fe6cc67f2c720a2df8ec *R/cpp11.R
+a2fbfc0b6e94fb85a52a26c8904956b9 *R/cppdoubles-package.R
+6ed8465d9b39cd503c504c2a5515b480 *R/diff.R
+99f86848174585a4a3495f63a4e436a5 *R/doubles.R
+9431dae8f6e1028a11b27bf8f5856a47 *R/zzz.R
+95fdce090c1697bbdc389f5fdc9665bb *README.md
+e25519b8af5a32bfe0fdda9c3141dcc6 *man/diff.Rd
+06c34c2b257c64a78df5fa2a0fb27e3f *man/doubles.Rd
+d088542fb7c8a9f6c92f3daa6065aee5 *src/cpp11.cpp
+65556e09cbbf74e4413146b2d020a2de *src/cpp_doubles.cpp
+4a7787c06d2632f4c282d423eb9b63cb *tests/testthat.R
+60dd1951470d275a45467bb45bfe3dff *tests/testthat/test-doubles.R
