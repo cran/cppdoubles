@@ -1,6 +1,6 @@
 Package: cppdoubles
 Title: Fast Relative Comparisons of Floating Point Numbers in 'C++'
-Version: 0.2.0
+Version: 0.3.0
 Authors@R: 
     person("Nick", "Christofides", , "nick.christofides.r@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-9743-7342"))
@@ -14,10 +14,10 @@ Suggests: bench, testthat (>= 3.0.0)
 LinkingTo: cpp11
 Config/testthat/edition: 3
 Encoding: UTF-8
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.2
 NeedsCompilation: yes
-Packaged: 2024-02-21 13:02:03 UTC; Nmc5
+Packaged: 2024-11-12 13:16:05 UTC; Nmc5
 Author: Nick Christofides [aut, cre] (<https://orcid.org/0000-0002-9743-7342>)
 Maintainer: Nick Christofides <nick.christofides.r@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-02-21 21:20:02 UTC
+Date/Publication: 2024-11-12 13:50:02 UTC
